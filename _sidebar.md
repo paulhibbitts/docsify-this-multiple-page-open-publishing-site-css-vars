@@ -8,7 +8,7 @@
     --content-max-width: 65ch;
     
     /* Theme Color */
-    --theme-color: #9333ea;
+    --theme-color: #9333ea !important;
     
     /* Headings */
     --heading-color: #0891b2;
