@@ -33,6 +33,33 @@
     
     /* Theme */
     --theme-color: #9333ea;
+
+    /* Typography */
+    --font-family: system-ui, -apple-system, sans-serif;
+    --font-size: 20px;
+    --line-height: 1.7;
+    --color-text: #374151;
+    --content-max-width: 65ch;
+    
+    /* Theme Color */
+    --theme-color: #9333ea;
+    
+    /* Headings */
+    --heading-color: #0891b2;
+    --heading-font-weight: 700;
+    --heading-line-height: 1.3;
+    
+    /* Links */
+    --link-color: #9333ea !important;
+    --link-color-hover: #7c3aed !important;
+    --link-underline-thickness: 1px;
+    --link-underline-color: rgba(147, 51, 234, 0.3) !important;
+    --link-underline-color-hover: rgba(147, 51, 234, 0.6);
+    
+    /* Strong/Bold */
+    --strong-color: #111827;
+    --strong-font-weight: 700;
+    
   }
 </style>
 
