@@ -35,6 +35,10 @@
     /* Theme */
     --theme-color: #cc0000;
 
+    /*Sidebar */
+    --sidebar-nav-link-color--active: #cc0000 !important;
+
+  
     /* Typography */
     --font-family: system-ui, -apple-system, sans-serif;
     --font-size: 20px;
