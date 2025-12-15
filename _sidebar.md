@@ -5,7 +5,7 @@
     --base-font-family: system-ui, -apple-system, sans-serif;
     --base-font-size: 20px;
     --base-line-height: 1.7;
-    --base-color: #cc0000;
+    --base-color: #374151;
     --content-max-width: 65ch;
     
     /* Headings */
