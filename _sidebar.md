@@ -36,6 +36,7 @@
     --theme-color: #cc0000;
 
     /*Sidebar */
+    --sidebar-name-color: #cc0000 !important;
     --sidebar-nav-link-color--active: #cc0000 !important;
     --sidebar-nav-link-border-color--active: #cc0000 !important;
   
