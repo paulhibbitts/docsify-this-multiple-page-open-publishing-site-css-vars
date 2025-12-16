@@ -39,7 +39,10 @@
     --sidebar-name-color: #cc0000 !important;
     --sidebar-nav-link-color--active: #cc0000 !important;
     --sidebar-nav-link-border-color--active: #cc0000 !important;
-  
+
+    /*Navbar */
+    --navbar-root-color--active: #cc0000 !important;
+    
     /* Typography */
     --font-family: system-ui, -apple-system, sans-serif;
     --font-size: 20px;
